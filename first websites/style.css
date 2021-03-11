@@ -1,0 +1,19 @@
+h1{
+    color:black
+}
+
+
+
+
+.origamis img{ 
+
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.abhi img{
+    display: flex;
+    justify-content: right;
+}
+
